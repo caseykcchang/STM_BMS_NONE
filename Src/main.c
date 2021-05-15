@@ -116,7 +116,10 @@ int main(void)
   {
 		
 <<<<<<< HEAD
+<<<<<<< HEAD
 		//printf("new feature");
+=======
+>>>>>>> parent of 34109fe (start a new feature)
 =======
 >>>>>>> parent of 34109fe (start a new feature)
 		static unsigned char cdcBuffer[16];
