@@ -114,7 +114,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-		
+		printf("new feature");
 		static unsigned char cdcBuffer[16];
 		static unsigned char len = 0;
 		
