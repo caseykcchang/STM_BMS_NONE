@@ -114,6 +114,7 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+    123
 		static unsigned char cdcBuffer[16];
 		static unsigned char len = 0;
 
