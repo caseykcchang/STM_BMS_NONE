@@ -114,14 +114,6 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
-		
-<<<<<<< HEAD
-<<<<<<< HEAD
-		//printf("new feature");
-=======
->>>>>>> parent of 34109fe (start a new feature)
-=======
->>>>>>> parent of 34109fe (start a new feature)
 		static unsigned char cdcBuffer[16];
 		static unsigned char len = 0;
 		
